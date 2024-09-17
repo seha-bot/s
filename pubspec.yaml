@@ -1,7 +1,7 @@
 name: s
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/seha-bot/s
 
 environment:
   sdk: ^3.5.1
