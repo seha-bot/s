@@ -1,14 +1,12 @@
-This is the s package.
+SKI combinator calculus functions.
 
-## Features
+## Defects
 
-It can s.
+All parameter and return types are `dynamic`.
+If you have ideas, please create an issue.
 
-## Getting started
+## Plans
 
-Just s it.
-
-## Usage
-
-Run it with `./s`.
-
+I don't know where I'm going with this package.
+Might make an interpreter.
+If you have ideas, please create an issue.

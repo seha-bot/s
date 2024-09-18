@@ -1,15 +1,12 @@
 name: s
-description: The s package.
-version: 0.0.1
+description: The (S)KI combinators package.
+version: 0.0.2
 repository: https://github.com/seha-bot/s
 
 environment:
   sdk: ^3.5.1
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^4.0.0
-  test: ^1.24.0
